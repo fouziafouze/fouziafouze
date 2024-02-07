@@ -24,7 +24,7 @@ I'm fouzia
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/FOUZIA.I?theme=dark&font=Maiden%20Orange&ext=contest)
-![FOUZIA's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![fouzia's GitHub stats](https://github-readme-stats.vercel.app/api?username=fouziafouze-&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
 [![fouzia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fouziafouze&bg_color=ffd1f9&color=9e4c98&line=963690&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
