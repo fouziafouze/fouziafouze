@@ -9,7 +9,7 @@ I'm fouzia
 - 💬 Ask me about Tech and share more ideas
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/fouziafreesia)
- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/FouziaFouz/)
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fouzia-fouz-6a2261249/)
 
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know some and i do my best.
