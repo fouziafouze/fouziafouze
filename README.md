@@ -8,12 +8,12 @@ I'm fouzia
 - 🤔 I’m looking for help with Placements 
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/fouziafressia) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Fouzia Fouz/)
+<br /> [<img src="https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/fouziafressia) [<img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Fouzia Fouz/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know some and i do my best.
 - i have interest to more websites and creative designs
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50"  
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50"  src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50"  
 
 ### IDE and Tools I Use
@@ -23,8 +23,7 @@ I'm fouzia
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![FouziaFouzee GitHub stats](https://github-readme-stats.vercel.app/api?username=fouzia-r&theme=dark&show_icons=true&&hide=issues,contribs)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/fouziaprogrammer?ext=contest&theme=dark)](https://leetcode.com/fouziaprogrammer)
-
-[![fouzia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fouzia-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![LeetCode Stats](https://leetcard.jacoblin.cool/FOUZIA.I?theme=dark&font=Maiden%20Orange&ext=contest)
+[![fouzia GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fouziafouze&bg_color=ffd1f9&color=9e4c98&line=963690&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
